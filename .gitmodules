@@ -1,0 +1,30 @@
+[submodule "opentuna/opentuna-installer"]
+	path = opentuna/opentuna-installer
+	url = https://github.com/ps2homebrew/opentuna-installer
+[submodule "opentuna/opentuna-RLE"]
+	path = opentuna/opentuna-RLE
+	url = https://github.com/ps2homebrew/opentuna-RLE
+[submodule "opentuna/opentuna-payload"]
+	path = opentuna/opentuna-payload
+	url = https://github.com/ps2homebrew/opentuna-payload
+[submodule "OSDMenu"]
+	path = OSDMenu
+	url = https://github.com/pcm720/OSDMenu
+[submodule "neutrino"]
+	path = neutrino
+	url = https://github.com/rickgaiser/neutrino
+[submodule "ps2dev/ps2link"]
+	path = ps2dev/ps2link
+	url = https://github.com/ps2dev/ps2link
+[submodule "ps2dev/ps2client"]
+	path = ps2dev/ps2client
+	url = https://github.com/ps2dev/ps2client
+[submodule "wLaunchELF"]
+	path = wLaunchELF
+	url = https://github.com/ps2homebrew/wLaunchELF
+[submodule "PS2BBL"]
+	path = PS2BBL
+	url = https://github.com/israpps/PlayStation2-Basic-BootLoader
+[submodule "nhddl"]
+	path = nhddl
+	url = https://github.com/pcm720/nhddl/
